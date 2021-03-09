@@ -11,6 +11,6 @@ public class NewController {
 
     @GetMapping("/homo")
     public String home(){
-    return "Hola mundo nuevo";
+    return "Hola mundo desde git";
     }
 }
